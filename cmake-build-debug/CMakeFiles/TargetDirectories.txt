@@ -1,0 +1,4 @@
+/cygdrive/c/Users/Fazel/CLionProjects/Cppkurs/Assignments/Assignment_3/cmake-build-debug/CMakeFiles/Main.dir
+/cygdrive/c/Users/Fazel/CLionProjects/Cppkurs/Assignments/Assignment_3/cmake-build-debug/CMakeFiles/Test.dir
+/cygdrive/c/Users/Fazel/CLionProjects/Cppkurs/Assignments/Assignment_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Fazel/CLionProjects/Cppkurs/Assignments/Assignment_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
